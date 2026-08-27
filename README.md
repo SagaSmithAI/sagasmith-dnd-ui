@@ -1,5 +1,10 @@
 # SagaSmith D&D UI
 
+> [!IMPORTANT]
+> **本仓库已归档。** 它不再是发布输入、兼容回退或新 issue 的接收位置。当前 D&D Workbench 位于 [Sagasmith-dnd/apps/ui](https://github.com/SagaSmithAI/Sagasmith-dnd/tree/main/apps/ui)。
+>
+> **This repository is archived.** It is no longer a release input, compatibility fallback, or destination for new issues. The current D&D Workbench lives in [Sagasmith-dnd/apps/ui](https://github.com/SagaSmithAI/Sagasmith-dnd/tree/main/apps/ui).
+
 [Website](https://sagasmithai.github.io) · [Platform overview](https://github.com/SagaSmithAI/.github/blob/main/profile/README.md) · [Hosted service](https://github.com/SagaSmithAI/SagaSmith-service) · [Public content repository](https://github.com/SagaSmithAI/SagaSmith-dnd-content-library)
 
 `/library` 是 schema-v2 Content Pack 控制台，统一管理 core rules/addon/module/preset。
